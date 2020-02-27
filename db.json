@@ -1,0 +1,54 @@
+{
+    "Produit":[
+        {
+            "id": 1,
+           "nom": "produit 1",
+           "nomCourt": "produit 1",
+           "prixBase": "produit 1",
+           "prixVente": "produit 1",
+           "seuilRemise": "produit 1",
+           "image": "produit 1",
+           "quantiteInitiale": "produit 1",
+           "quantiteActuel": "produit 1"
+        }
+    ],
+    "Fournisseur":[
+        {
+           "id": 1,
+           "nom": "produit 1",
+           "nomCourt": "produit 1",
+           "ville": "produit 1",
+           "adresse": "produit 1",
+           "telFix": "produit 1",
+           "telMobile": "produit 1",
+           "fax": "produit 1",
+           "email": "produit 1"
+        }
+    ],
+    "Client":[
+        {
+           "id": 1,
+           "nom": "produit 1",
+           "prenom": "produit 1",
+           "status": "produit 1",
+           "photo": "produit 1",
+           "telephone": "produit 1",
+           "email": "produit 1",
+           "adresse": "produit 1",
+           "ville": "produit 1"
+        }
+       ],
+    "Utilisateur":[
+            {
+               "id": 1,
+               "profils,": "produit 1",
+               "dateCreation,": "produit 1",
+               "dateFin": "produit 1",
+               "photo": "produit 1",
+               "email": "produit 1",
+               "status":1,
+               "password": "0",
+               "adresse": "produit 1"
+            }
+        ]
+}
